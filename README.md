@@ -1,8 +1,8 @@
-<h1 align="centre">OXYxMUSIC 🎵</h1>
+<h1 align="centre">MUNNAxMUSIC 🎵</h1>
 
 ### A bot that can play music on telegram group's voice call
 
-# Available on telegram as @Music_op_bot
+# Available on telegram as @Munna_vc_robot
 
 <p align="center">
   <img src="https://telegra.ph/file/965dfc5005cd4facef437.jpg">
