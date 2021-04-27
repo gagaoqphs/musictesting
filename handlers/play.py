@@ -572,7 +572,7 @@ async def deezer(client: Client, message_: Message):
     try:
         user = await USER.get_me()
     except:
-        user.first_name =  "OxyXmusic"
+        user.first_name =  "MunnaXmusic"
     usar = user
     wew = usar.id
     try:
