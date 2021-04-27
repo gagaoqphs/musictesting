@@ -5,7 +5,7 @@
 # Available on telegram as @Munna_vc_robot
 
 <p align="center">
-  <img src="https://telegra.ph/file/965dfc5005cd4facef437.jpg">
+  <img src="https://telegra.ph/file/7de650d6dbd9699191079.jpg">
 </p>
 
 <h2> Whats new 🔥 </h2>
